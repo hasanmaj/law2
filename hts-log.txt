@@ -1,20 +1,18 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 May 2025 14:05:27 at https://laws.tehran.ir/home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwr1%e0C2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://laws.tehran.ir/home -O1 "C:\My Web Sites\laws1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 May 2025 14:31:04 at https://laws.tehran.ir/Law/TreeText/8361 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr1%e0C2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://laws.tehran.ir/Law/TreeText/8361 -O1 "C:\My Web Sites\tree" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-14:05:32	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://laws.tehran.ir/Content/CityLaws
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/SiteCSS.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/menu.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/multiple-select.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/tabstyles.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/CityLaws-2.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/select2.min.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/jspc-royal_blue.css
-14:05:40	Warning: 	Warning: store text/css without scan: C:/My Web Sites/laws1/laws.tehran.ir/Content/PricingTable.css
+14:31:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://laws.tehran.ir/Content/CityLaws
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/SiteCSS.css
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/menu.css
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/multiple-select.css
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/tabstyles.css
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/CityLaws-2.css
+14:31:15	Warning: 	Warning: store text/css without scan: C:/My Web Sites/tree/laws.tehran.ir/Content/themes/default/style.min.css
 
-HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 17 links scanned, 16 files written (522626 bytes overall) [533096 bytes received at 41007 bytes/sec]
-(No errors, 9 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 16 links scanned, 15 files written (441304 bytes overall) [451240 bytes received at 41021 bytes/sec]
+(No errors, 7 warnings, 0 messages)

@@ -1,5 +1,5 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-laws.tehran.ir	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	hld44g55pfwrb3imxnz0boms
+laws.tehran.ir	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	f1kcjj1emaj1wus0jhiumin1
 laws.tehran.ir	TRUE	/	FALSE	1999999999	SameSite	Lax
 
